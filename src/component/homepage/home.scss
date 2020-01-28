@@ -1,0 +1,22 @@
+.bg-number {
+  z-index: 10;
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+
+.img_01 {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='450px' width='320px'><text x='0' y='122' fill='%23f5f5f5' font-size='180'>01</text></svg>");
+}
+
+.img_02 {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='450px' width='320px'><text x='0' y='122' fill='%23f5f5f5' font-size='180'>02</text></svg>");
+}
+
+.img_03 {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='450px' width='320px'><text x='0' y='122' fill='%23f5f5f5' font-size='180'>03</text></svg>");
+}
+
+body {
+  background-color: #fff !important;
+}
